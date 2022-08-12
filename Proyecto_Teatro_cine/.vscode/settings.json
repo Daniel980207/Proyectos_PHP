@@ -1,0 +1,9 @@
+{
+    "docwriter.style": "Auto-detect",
+    "docwriter.language": "Spanish",
+    "docwriter.custom.author": "{{summary}} {{#params}} @param {{name}} ({{type}}) - {{paramExplained}} {{/params}} {{#returnExplained}} @returns {{.}} {{/returnExplained}}  Generated on {{date}}",
+    "docwriter.progress.trackClasses": true,
+    "docwriter.progress.trackFunctions": true,
+    "docwriter.progress.trackMethods": true,
+    "docwriter.progress.trackTypes": true
+}
