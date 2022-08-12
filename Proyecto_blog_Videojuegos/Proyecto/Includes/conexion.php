@@ -1,7 +1,7 @@
 <?php
 $Server='localhost';
-$userame="stereo";
-$password="1234";
+$userame="root";
+$password="";
 $database="proyectphp";
 
 $db= mysqli_connect($Server,$userame,$password,$database);
