@@ -10,3 +10,4 @@ MostrarTeatro() y CrearFormulario() */
     MostrarTeatro();
 /* Llamando a la función CrearFormulario() */
     CrearFormulario();
+//http://localhost/ProyectoS_PHP-1/Proyecto_Teatro_cine/index.php

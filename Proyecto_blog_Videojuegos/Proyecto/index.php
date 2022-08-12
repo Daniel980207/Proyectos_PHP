@@ -45,3 +45,4 @@ require_once './Includes/header.php';
     ?>
 </body>
 </html>
+//http://localhost/ProyectoS_PHP-1/Proyecto_blog_Videojuegos/Proyecto/index.php
